@@ -1,7 +1,7 @@
 # reimagined-simpleCalculator
-This program will take input of numbers.
+This program is designed to perform arithmetic operations of numbers.
 
-The following operations can be executed
+The following operations can be executed:
 1.Add
 2.Subtract
 3.Multiply
@@ -11,7 +11,7 @@ The following operations can be executed
 1.Programming language=>Python 3.9.5
 
 ##NOTE:
-it can also take float numbers
+It can also take float numbers
 
 ##SAMPLE OUTPUT
 
